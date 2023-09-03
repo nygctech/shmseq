@@ -5,7 +5,7 @@ Lötstedt B *et al* (2023) Spatial host-microbiome sequencing reveals niches in 
 Mucosal and barrier tissues such as the gut, lung or skin, are composed of a complex network of cells and microbes forming a tight niche that prevents pathogen colonization and supports host-microbiome symbiosis. Characterizing these networks at high molecular and cellular resolution is crucial for our understanding of homeostasis and disease. Here, we present spatial host-microbiome sequencing (SHM-Seq), an all-sequencing based approach that captures tissue histology, polyadenylated RNAs and bacterial 16S sequences directly from a tissue by modifying spatially barcoded glass surfaces to enable simultaneous capture of host transcripts and hypervariable regions of the 16S bacterial rRNA. We apply our approach to the mouse gut as a model system, use a deep learning approach for data mapping, and detect spatial niches defined by cellular composition and microbial geography. We show that subpopulations of gut cells express specific gene programs in different microenvironments characteristic of regional commensal bacteria and impact host-bacteria interactions. SHM-Seq should enhance the study of native host-microbe interactions in health and disease.
 
 ### SHM-seq workflow
-![github-small](https://github.com/nygctech/shmseq/blob/master/SHM-seq-fig1.png)
+![github-small](https://github.com/nygctech/shmseq/blob/main/SHM-seq-fig1.png)
 
 Illustration kindly made by Ania Hupalowska.
 
