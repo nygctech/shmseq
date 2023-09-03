@@ -1,0 +1,8 @@
+keras.yml
+- Python environment to use for script including Keras and Tensorflow.
+
+python_env.yml	
+- Python environment to use for scripts in folders pre-splotch, post-splotch, QC-ST, DE-splotch and Coexpression-modules.
+ 
+stenv3.yml
+- Pyhton environment to use for scripts in folder Bacterial-analysis, except for scripts including Keras and Tensorflow.
