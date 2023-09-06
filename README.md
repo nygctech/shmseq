@@ -10,7 +10,7 @@ Mucosal and barrier tissues such as the gut, lung or skin, are composed of a com
 Illustration kindly made by Ania Hupalowska.
 
 ### Data availability
-The raw and processed sequencing and image files needed to recreate all the results in this study have been made available at [Broad's Single Cell Portal](https://singlecell.broadinstitute.org/single_cell/study/SCP2375).
+All raw data have been deposited to NCBI’s SRA under accession PRJNA999495. The processed sequencing and image files needed to recreate all the results in this study have been made available at [Broad's Single Cell Portal](https://singlecell.broadinstitute.org/single_cell/study/SCP2375).
 
 ### Data pre-processing
 Initial host sequncing data processing was performed with ST Pipeline ([v.1.7.6](https://github.com/SpatialTranscriptomicsResearch/st_pipeline/releases/tag/1.7.6)) and initial bacterial sequencing data processing was performed using the [taxonomy assigment pipeline](./Bacterial-analysis/bacterial_preparation_scripts/taxonomy_assignment_pipeline/).
